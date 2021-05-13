@@ -15,8 +15,9 @@ If you make use of this VM for your research, please cite the original <a href="
 - Click *Import*.
 - Select *vespa* in the VirtualBox Manager and click *Start*.
 
-## Optimizing VM
-- Once the VM is started, in the menu, select *Devices* and click *Insert Guest Additions CD image...*
+## Optimizing VM 
+**(Skip this section if you are on a Mac)**
+- Once the VM is started, in the VirtualBox menu, select *Devices* and click *Insert Guest Additions CD image...*
 - Click *Run.*
 - Type the root password *vespa* and click *Authenticate*.
 - Press *Enter* once the software is installed and reboot VM (top right, *Power Off*, *Restart*).
